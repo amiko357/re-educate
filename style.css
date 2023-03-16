@@ -1,0 +1,52 @@
+/* h1{
+    color: red;
+    background-color: aqua;
+}
+p{
+color: peru;
+background-color: blue;
+}
+button{
+display: block;
+
+} */
+body{
+    background-color:  blue;
+    height: 100vh;
+    margin: 0;
+}
+h1{margin: 0;}
+form{
+width: 250px;
+height: 200px;
+background-color: blueviolet;
+/* text-align: center; */
+padding: 20px;
+margin: auto;
+border-radius: 10px;
+border: 4px solid green;
+box-shadow: 1px 2px 3px 4px black;
+
+
+}
+
+label{
+    display: block;
+}
+button{
+     display: block;
+     margin: auto;
+     width: 88%;
+     height: 30px;
+     border-radius: 7px;
+     margin-top: 10px;
+     cursor:pointer ;
+font-size: 17px;
+border: none;
+color: red;
+}
+input{width: 100%;
+    height: 5vh;
+    border-radius: 7px;
+    border: none;
+}
